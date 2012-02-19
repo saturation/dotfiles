@@ -1,0 +1,10 @@
+#urxvt.transparent: true
+#urxvt.shading: 30
+urxvt.depth: 32
+urxvt.background: rgba:3f00/3f00/3f00/9999
+urxvt.foreground: white
+#urxvt.background: black
+urxvt.scrollBar: false
+urxvt.font: -*-fixed-medium-r-*-*-18-*-*-*-*-*-iso8859-*
+urxvt.font: xft:inconsolata-g:size=10
+urxvt.internalborder: 5
