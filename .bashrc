@@ -38,9 +38,10 @@ bakwht='\e[47m'   # White
 txtrst='\e[0m'    # Text Reset
 
 
-
-
-
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+set show-all-if-ambiguous on
+set completion-ignore-case on
 
 
 
